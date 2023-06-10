@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/kuning_bg"
+    tools:context=".contact">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/pict" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@color/kuning_bg"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@color/kuning_bg"
+            android:layout_gravity="left"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/kuning_bg"
+                android:src="@drawable/instagram"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="20dp"
+                android:text="Instagram\nSonobudoyo"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:onClick="intagram"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="left"
+            android:background="@color/kuning_bg"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/kuning_bg"
+                android:src="@drawable/youtube" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="16dp"
+                android:text="Youtube\nMuseum Sonobudoyo"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:onClick="youtube"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="left"
+            android:background="@color/kuning_bg"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/twt"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/kuning_bg"
+                android:src="@drawable/twitter"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="16dp"
+                android:text="Twitter\n@sonobudoyo"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:onClick="twitter"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="left"
+            android:background="@color/kuning_bg"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/fb"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/kuning_bg"
+                android:src="@drawable/fb"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="16dp"
+                android:text="Facebook\nMuseum Sonobudoyo"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:onClick="facebook"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="left"
+            android:background="@color/kuning_bg"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/wa"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/kuning_bg"
+                android:src="@drawable/whatsapp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="16dp"
+                android:text="WhatsApp\n+62 881-9106-109"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:onClick="whatsapp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="left"
+            android:background="@color/kuning_bg"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/telp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/kuning_bg"
+                android:src="@drawable/telephon"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="20dp"
+                android:text="Telp/Fax\n(0274) 373617"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:onClick="telp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="left"
+            android:background="@color/kuning_bg"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_margin="16dp"
+                android:layout_weight="1"
+                android:background="@color/kuning_bg"
+                android:src="@drawable/gmail"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="16dp"
+                android:text="Email\nsonobudoyomuseum@gmail.com"
+                android:textColor="@color/black"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

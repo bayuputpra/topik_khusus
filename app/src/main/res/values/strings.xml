@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">SonobudoyoYK</string>
+    <string name="about">About</string>
+    <string name="library_amp_resources"><![CDATA[Library & resources]]></string>
+    <string name="namaaplikasi_merupakan_aplikasi_yang_berguna_untuk">\'NamaAplikasi\' merupakan aplikasi yang berguna untuk...</string>
+    <string name="cp_email_dicoding_com">Cp : email@dicoding.com</string>
+    <string name="maikel_jakson">Maikel Jakson</string>
+    <string name="kris_jon">Kris Jon</string>
+    <string name="developer">Developer</string>
+    <string name="library_2">Library 2</string>
+    <string name="library_1">Library 1</string>
+    <string name="welcome">WELCOME</string>
+    <string name="title">tvTitle</string>
+    <string name="description">tvDesc</string>
+
+    <string-array name="data_title">
+        <item>Tutup Layanan Kunjungan</item>
+        <item>Virtual Konten MSB</item>
+        <item>Sonobudoyo Bangkit!</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Menindaklanjuti instruksi Gubernur Daerah Istimewa Yogyakarta No. 17 / INSTR / 2021 Tentang Pemberlakuan Pembatasan Kegiatan Masyarakat (PPKM) Darurat di DIY, dengan ini Museum Sonobudoyo melakukan penutupan pelayanan :\n
+            - Layanan Kunjungan Museum Sonobudoyo\n
+            - Layanan Perpustakaan Museum Sonobudoyo\n
+            - Layanan Naskah Museum Sonobudoyo\n
+            Yang diperpanjang sampai 2 Agustus 2021.\n
+            \nKami mohon maaf atas ketidaknyamanan ini, dan kami terus menghimbau kepada masyarakat untuk menerapkan protokol kesehatan dengan disiplin dan mengikuti setiap anjuran dari pemerintah. Atas kerjasamanya kami sampaikan terima kasih.\n
+            \nSahabat Sonobudoyo dapat terus mengikuti update informasi Museum Sonobudoyo melalui akun media sosial Museum Sonobudoyo. Salam Sahabat Museum, Museum di Hatiku.
+        </item>
+        <item>
+            Halo Sahabat Sonobudoyo, di tengah masa PPKM darurat saat ini, mengharuskan kita untuk tetap di rumah saja, demi menekan penyebaran Covid-19  di Indonesia, terlebih di Daerah Istimewa Yogyakarta. Banyak kegiatan yang kita rindukan, salah satunya adalah berjalan-jalan, dimana Yogyakarta sendiri seperti yang kita tahu banyak sekali tempat wisata, salah satunya adalah Museum Sonobudoyo yang menjadi tempat wisata edukatif.\n
+            \nBanyak Sahabat Sonobudoyo yang tentunya rindu untuk dapat berkunjung secara langsung ke Museum Sonobudoyo, akan tetapi Sahabat Sonobudoyo semua dapat mengobati rasa rindu dengan mengunjungi media sosial Museum. Sahabat semua dapat mengunjungi kanal Youtube Museum Sonobudoyo untuk melihat beberapa video kegiatan yang diunggah, seperti Virtual Tour Museum, Pojok Kurator, Webinar, Dokumenter, dan masih banyak lagi konten yang edukatif namun juga menghibur Sahabat Sonobudoyo semua. Sahabat semua dapat langsung mencari kanal Youtube Museum Sonobudoyo melalui Youtube search atau link berikut:\n
+            https://youtube.com/channel/UC1z3H9hx20wLfjnE_QqAlZw\n
+            untuk dapat langsung terhubung dengan channel Youtube Museum Sonobudoyo.\n
+            \nKami juga menghimbau untuk Sahabat Sonobudoyo semua, untuk selalu menerapkan protokol kesehatan dengan disiplin dan juga mengikuti setiap anjuran dari pemerintah, agar keadaan dapat pulih kembali. Selalu sehat sahabat, dan terus ikuti informasi mengenai Museum Sonobudoyo di akun media sosial Museum Sonobudoyo. Salam Sahabat Museum, Museum di Hatiku.\n
+        </item>
+        <item>
+            Yogyakarta-Museum Sonobudoyo Yogyakarta terus mengajak seluruh elemen masyarakat khususnya anak muda untuk bersatu dan berkolaborasi dalam mengembangkan budaya. Membangkitkan kembali rasa kepedulian dan kecintaan terhadap budaya dan tradisi masa lalu ditengah kondisi Covid-19 saat ini menjadi konsentrasi penuh yang dilakukan oleh Museum Sonobudoyo.\n
+            \nMuseum Sonobudoyo sebagai salah satu museum yang memiliki jumlah koleksi yang cukup lengkap kedua setelah Museum Nasional menjadikannya terus berupaya mengeksplorasi koleksi-koleksi yang ada melalui berbagai kegiatan. Hal ini menjadi salah satu upaya Museum Sonobudoyo untuk memperkuat daya minat masyarakat untuk mencintai budaya melalui program kebudayaan. Hal nini ditegaskan oleh Gubernur DIY dalam upaya meningkatkan daya tarik masyarakat akan potensi budaya yang dimiliki Yogyakarta perlu adanya sebeuh program khusus. Berdasarkan hal tersebut, Museum Sonobudoyo turul mengambil peran dalam mewujudkan rasa kepedulian serta cinta budaya melalui sebuah program kesenian pertunjukan.\n
+            \nBerjalannya waktu Museum Sonobudoyo tidak hanya memiliki program-program khsusus dalam melestarikan budaya dan tradisi,. Tetapi Museum Sonobudoyo juga akan dijadikan sebagai tempat yang nyaman bagi siapapun yang berkunjung di museum. Disisi lain, Museum Sonobudoyo telah mulai menyiapkan berbagai fasilitas penunjang seperti, lahan parkir yang nyaman, toilet bersih, sirkulasi udara yang segar disetiap sudut museum, serta berbagai fasilitas lainnya.  Hal ini dilakukan oleh Museum Sonobudoyo untuk menghilangkan stigma masyarakat terhadap museum yang gelap, panas, dan tidak teratur.\n
+            \n“Musuem Sonobudoyo telah menyiapkan program prioritas di tahun 2021-2022. Program prioritas yang telah disiapkan oleh Museum Sonobudoyo berisi tentang pelestarian budaya yang cocok untuk semua segmentasi usia. Saat ini Museum Sonobudoyo telah menggelar pertunjukan wayang kulit, pertunjukan kesenian kerakyatan, dan pertunjukan wayang topeng panji, yang secara reguler digelar oleh Museum Sonobudoyo untuk meningkatkan daya tarik wisatawan dan juga penguatan karakter cinta budaya kepada generasi muda,”Kata Kepala Museum Sonobudoyo.\n
+            \nBaru-baru ini Museum Sonobudoyo menyelanggarakan pameran temporer Abhinaya Karya yang bertajuk “Kembara Gembira : Ayo Dolan ! Ayo Cerita!, yang bertempat digedung Pameran Temporer Museum Sonobudoyo mulai 2-30 Juni 2021. Pameran ini melibatkan interaksi pengunjung untuk bernostalgia dan mengenalkan jenis-jenis permainan tradisional kepada anak-anak.\n
+            \n“Agenda pengembangan dan pelestarian budaya kepada generasi muda merupakan salah satu agenda penting dalam meningkatkan kesadaran dan nilai budaya. Hal itu disebabkan karena secara langsung bersentuhan dengan kebutuhan faktual pada era saat ini, yakni pentingnya mengenalkan dan melestarikan kebudayaan kepada generasi muda”, tambahnya.\n
+            \n“Implementasi yang telah dilaksanakan oleh Museum Sonobudoyo yang sudah dilakukan adalah yakni, dengan terus memperbaiki fasilitas, pelayanan kepada masyarakat, peluncuran program-program khusus, serta melakukan kerjasama dengan berbagai pihak baik dari kalangan akdemisi, budaya, hingga masyarakat umum untuk meningkatkan daya minat akan kepedulian dan kecintaan budaya khususnya pada generasi muda”, Kepala Museum Sonobudoyo (JEF).
+        </item>
+    </string-array>
+
+    <string-array name="data_foto">
+        <item>https://jogja360.net/wp-content/uploads/2021/03/Cover-Museum-Sonobudoyo.jpg</item>
+        <item>https://www.cityofwaupaca.org/parksnrec/wp-content/uploads/sites/3/2020/03/Museum-Virtual-Tours-768x644.jpg</item>
+        <item>https://img.harianjogja.com/posts/2020/03/17/1034562/27-memo-culture.jpg</item>
+    </string-array>
+</resources>

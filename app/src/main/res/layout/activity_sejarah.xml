@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/kuning_bg"
+    tools:context=".sejarah">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/kuning_bg"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:background="@drawable/ic_baseline_arrow_back_24"
+            android:onClick="back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Sejarah"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/museumlogo" />
+
+    <View
+        android:layout_width="match_parent"
+        android:visibility="visible"
+        android:layout_height="3dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@color/black"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp">
+            <TextView
+                android:id="@+id/tvDesc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="15dp"
+                android:justificationMode="inter_word"
+                android:text="Museum Sonobudoyo dulu adalah sebuah yayasan yang bergerak dalam bidang kebudayaan Jawa, Madura, Bali dan Lombok. Yayasan ini berdiri di Surakarta pada tahun 1919 bernama Java Instituut. Dalam keputusan Konggres tahun 1924 Java Instituut akan mendirikan sebuah museum di Yogyakarta. Pada tahun 1929 pengumpulan data kebudayaan dari daerah Jawa, Madura, Bali dan Lombok. Panitia Perencana Pendirian Museum dibentuk pada tahun 1931 dengan anggota antara lain: Ir.Th. Karsten P.H.W. Sitsen, Koeperberg. \n\nBangunan museum menggunakan tanah bekas “Shouten” tanah hadiah dari Sri Sultan Hamengkubuwono VIII dan ditandai dengan sengkalan candrasengkala “Buta ngrasa estining lata” yaitu tahun 1865 Jawa atau tahun 1934 Masehi. Sedangkan peresmian dilakukan oleh Sri Sultan Hamengkubuwana VIII pada hari Rabu wage pada tanggal 9 Ruwah 1866 Jawa dengan ditandai candra sengkala “Kayu Winayang Ing Brahmana Budha” yang berarti tahun Jawa atau tepatnya tanggal 6  Nopember 1935 tahun Masehi. Pada masa pendudukan Jepang Museum Sonobudoyo dikelola oleh Bupati Paniradyapati Wiyata Praja (Kantor Sosial bagian pengajaran). Di jaman Kemerdekaan kemudian dikelola oleh Bupati Utorodyopati Budaya Prawito yaitu jajaran pemerintah Daerah Istimewa Yogyakarta.\n\nSelanjutnya pada akhir tahun 1974 Museum Sonobudoyo diserahkan ke Pemerintah Pusat / Departemen Pendidikan dan Kebudayaan dan secara langsung bertanggung jawab kepada Direktorat Jenderal dengan berlakunya Undang-undang No. 22 tahun 2000 tentang kewenangan Pemerintah dan kewenangan Propinsi sebagai Otonomi Daerah. Museum Sonobudoyo mulai Januari 2001 bergabung pada Dinas Kebudayaan dan Pariwisata Propinsi DIY diusulkan menjadi UPTD Perda No. 7 / Th. 2002 Tgl. 3 Agustus 2002 tentang pembentukan dan organisasi UPTD pada Dinas Daerah dilingkungan Pemerintah Propinsi Daerah Istimewa Yogyakarta, dan SK Gubernur No. 161 / Th. 2002 Tgl. 4 Nopember tentang TU – Poksi.\n\nMuseum Negeri Sonobudoyo ini tersimpan 10 Jenis Koleksi :\n
+1.  Jenis Koleksi Geologika\n
+2.  Jenis Koleksi Biologika\n
+3.  Jenis Koleksi Ethnografika\n
+4.  Jenis Koeksi Arkeologi\n
+5.  Jenis Koleksi Numismatika/ Heraldika\n
+6.  Jenis Koleksi Historika\n
+7.  Jenis Koleksi Filologika\n
+8.  Jenis Koeksi Keramologika\n
+9.  Jenis Koleksi Senirupa\n
+10. Jenis Koleksi Teknologika\n">
+            </TextView>
+        </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_launcher_background" />
+    <drawable name="ic_launcher_foreground" />
+    <drawable name="ic_launcher_maps_background" />
+    <drawable name="ic_launcher_maps_foreground" />
+</resources>

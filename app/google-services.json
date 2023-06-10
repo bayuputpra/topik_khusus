@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059287365593",
+    "project_id": "topik-khusus-fe36d",
+    "storage_bucket": "topik-khusus-fe36d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059287365593:android:5c083e8b776c8eace08bc8",
+        "android_client_info": {
+          "package_name": "com.TK.sonobudoyoyk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059287365593-sehfe1820n90a80eo1osg5rbcbieg6oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm1-KjmmAWmNP8tA-hfxm8lL4zx0thB8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059287365593-sehfe1820n90a80eo1osg5rbcbieg6oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
